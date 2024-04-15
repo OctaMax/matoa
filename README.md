@@ -1,1 +1,1 @@
-[Matoa]([https://github.com/OctaMax](https://octamax.github.io/matoa/))
+Matoa([https://github.com/OctaMax](https://octamax.github.io/matoa/))
